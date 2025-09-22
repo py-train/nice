@@ -1,7 +1,8 @@
-parts = ['rpqkhuR',
-         'rRmQ5BnJAKXZ6KEX2'
-         '2EiY3j8vUIJguZHXu18KZ9GLTPdlsaOXqnjo6Sevlefa1zd1T3BlbkFJYgInPdH3Cb6EfdKsTqNzRrrhTHfRcGBDbHAamhZp',
-         '_2wC8dxDxNk8Gm6pWYG8TU07jF6sCvP8A'
+parts = ['CdDH49LUzQuuMQSAo3IyOW41KL51d0ibyIbmVYzSjS7MOZO1YyY9GIh7ji5YNpE9yvsE5TUCSsT3BlbkFJle',
+         'KEeim2X8YxBMvetZ3mf2FGKX118OAkSJycvCVbAffrg03ffRbZ85J39ImU0k1IOnP',
+         'nA_IA'
+
+
 ]
 
 if __name__ == '__main__':
